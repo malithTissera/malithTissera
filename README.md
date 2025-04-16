@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Malith Tissera 👋</h1>
 
 <p align="center">
-  🚀 CS Student | 💻 Frontend Developer | 🎨 UI/UX Enthusiast <br>
+  CS Student | 💻 Frontend Developer | 🎨 UI/UX Enthusiast <br>
   <a href="https://malithtissera.com" target="_blank">🌐 malithtissera.com</a> • 
   📧 wmalithw@gmail.com
 </p>
